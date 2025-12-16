@@ -1,5 +1,4 @@
-# Artifact eval
-This archive contains the artifacts for the paper `Pitfalls for Security Isolation in Multi-CPU Systems`.
+This repository contains the artifacts for the paper **Pitfalls for Security Isolation in Multi-CPU Systems**, published at NDSS 2026.
 All experiments have been performed on Ubuntu 24.04.
 
 ## Directory layout and files
